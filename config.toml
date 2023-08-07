@@ -1,0 +1,4 @@
+baseURL = 'https://davidgm94.github.io'
+languageCode = 'en-us'
+title = 'David Gonzalez Martin'
+theme = 'm10c'
