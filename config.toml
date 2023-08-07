@@ -1,4 +1,18 @@
 baseURL = 'https://davidgm94.github.io'
 languageCode = 'en-us'
-title = 'David Gonzalez Martin'
+title = 'Tales from a system programmer'
 theme = 'm10c'
+
+[params]
+author = "David Gonzalez Martin"
+description = "Blog of a systems programmer"
+
+[[menu.main]]
+  identifier = "Home"
+  name = "Home"
+  url = "/home/"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/davidgm94"
